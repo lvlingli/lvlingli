@@ -1,14 +1,14 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: ÁÑçý
+description: Ò÷·ç×íÔÂ Ì¸Ð¦½­ºþ
+author: ÁÑçý
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
+github: https://github.com/lvlingli
 about: Freelance developer
 
-baseurl: "http://aboutashu.com/hcz-jekyll-blog"
-url: "http://aboutashu.com/hcz-jekyll-blog"
+baseurl: "https://lvlingli.github.io/"
+url: "https://lvlingli.github.io/"
 
-disqus_shortname: aboutashu
+disqus_shortname: lvlingli
 google_analytics: UA-72862926-1
 
 share:
@@ -24,3 +24,4 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
+
